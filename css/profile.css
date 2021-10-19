@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.profile-img-class {
+  background-color: #777;
+}
+
+.myprofile-image {
+  height: 140px;
+  width: 140px;
+}
+
+.carousel-inner img {
+  height: 280px;
+  width: 50%;
+}
+
+.icons {
+  height: 15px;
+  width: 15px;
+}
