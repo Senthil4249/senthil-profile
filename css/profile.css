@@ -13,10 +13,14 @@
 
 .carousel-inner img {
   height: 280px;
-  width: 50%;
+  width: 60%;
 }
 
 .icons {
   height: 15px;
   width: 15px;
+}
+
+.bd-placeholder-img-lg {
+  height: 300px;
 }
