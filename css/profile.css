@@ -3,6 +3,28 @@
   font-family: Helvetica, Arial, sans-serif;
 }
 
+p.speech {
+  position: fixed;
+  top: 80px;
+  left: 150px;
+  display: none;
+  width: 350px;
+  height: 190px;
+  text-align: left;
+  line-height: 25px;
+  margin-left: 10px;
+  background-color: #fff;
+  border: 6px solid #666;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  -webkit-box-shadow: 2px 2px 4px #888;
+  -moz-box-shadow: 2px 2px 4px #888;
+  box-shadow: 2px 2px 4px #888;
+  font-size: 0.8rem;
+  padding: 5px;
+}
+
 .profile-img-class {
   background-color: #777;
 }
