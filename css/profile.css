@@ -44,6 +44,11 @@ p.speech {
   width: 15px;
 }
 
+.icons-speaker {
+  height: 25px;
+  width: 25px;
+}
+
 .bd-placeholder-img-lg {
   height: 300px;
 }
