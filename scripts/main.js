@@ -7,15 +7,9 @@ let profileCarouselClass = document.querySelector("#profileCarouselClass");
 let speakerIcon = document.querySelector("#speaker-icon");
 let backgroundMusic = document.querySelector("#background-music");
 
-document.body.onload = load();
-
 profileImage.addEventListener("mouseenter", showSummary);
 profileImage.addEventListener("mouseleave", hideSummary);
 speakerIcon.addEventListener("click", speakerToggle);
-
-function load() {
-  backgroundMusic.play();
-}
 
 function speakerToggle() {
   let str = speakerIcon.src;
